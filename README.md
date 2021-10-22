@@ -1,1 +1,1 @@
-# Linear-Regression
+# This is a Linear Regression model
